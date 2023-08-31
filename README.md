@@ -13,7 +13,7 @@ change the mode in Example.json to generate results for different methods
 
 <img src="https://github.com/hariharanrav/IGTTA_TMI/assets/75911061/03adf3d0-0401-4000-bbc3-2b717966b4c2" width=50% height=50%>
    
-![SiteWiseFailures](https://github.com/hariharanrav/IGTTA_TMI/assets/75911061/03adf3d0-0401-4000-bbc3-2b717966b4c2 ) 
+<img src="https://github.com/hariharanrav/IGTTA_TMI/assets/75911061/89cbb940-0411-447e-bd4b-b0c24ca7bb5f" width=50% height=50%>
 
 
 ![OCT_outperformance](https://github.com/hariharanrav/IGTTA_TMI/assets/75911061/89cbb940-0411-447e-bd4b-b0c24ca7bb5f)
