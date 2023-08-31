@@ -1,0 +1,12 @@
+{
+
+    "expt" : "2",
+    "modelFileOld" : "/media/cds/storage/DATA-1/hari/Covid19SegmentationNaveen/AnamNet/COVID Segmentation Exp 2/savedModels/12Sep_0854pm_model/UNetplus_50_model.pth", 
+    "modelFile" : "/media/cds/storage/DATA-1/hari/Covid19SegmentationNaveen/AnamNet/COVID Segmentation Exp 2/savedModels/12Sep_0703pm_model/MiniUNet_40_model.pth", 
+    "mode"      : "gceConst",
+    "batch_size": "8",
+    "steps"     : "10",
+    "gpu"       : "1",
+    "shuffle"   : "1"
+    
+}

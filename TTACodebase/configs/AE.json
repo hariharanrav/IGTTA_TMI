@@ -1,0 +1,19 @@
+{
+
+    "expt" : "1",
+    "modelFile" : "/media/cds-1/DATA1/DLServer/Covid19SegmentationNaveen/Segmentation-COVID-19/savedModels/AnamNet_100_model.pth", 
+    "modelAttn" : "/media/cds-1/DATA1/DLServer/Covid19SegmentationNaveen/AnamNet/COVID Segmentation Exp 1/savedModels/29May_1043pm_model/AttUNet_100_model.pth",        
+    "modelUNet": "/media/cds-1/DATA1/DLServer/Covid19SegmentationNaveen/AnamNet/COVID Segmentation Exp 1/savedModels/02Jun_0656am_model/UNet_100_model.pth",
+    "modelENet" : "/media/cds-1/DATA1/DLServer/Covid19SegmentationNaveen/AnamNet/COVID Segmentation Exp 1/savedModels/28Apr_0947am_model/OrgENet_100_model.pth",
+    "modelUNet++": "/media/cds-1/DATA1/DLServer/Covid19SegmentationNaveen/AnamNet/COVID Segmentation Exp 1/savedModels/29May_0733pm_model/UNet++_100_model.pth",
+    "modelSeg": "/media/cds-1/DATA1/DLServer/Covid19SegmentationNaveen/AnamNet/COVID Segmentation Exp 1/savedModels/29May_0317pm_model/SegNet_100_model.pth",
+    "modelLED": "/media/cds-1/DATA1/DLServer/Covid19SegmentationNaveen/AnamNet/COVID Segmentation Exp 1/savedModels/30May_0201am_model/LEDNet_100_model.pth",
+    "modelDLV3":"/media/cds-1/DATA1/DLServer/Covid19SegmentationNaveen/AnamNet/COVID Segmentation Exp 1/savedModels/30May_0215pm_model/DLV3plus_20_model.pth",
+    "surrModelFile":"/media/cds-1/DATA1/DLServer/Covid19SegmentationNaveen/TTAcodebase/surrogates/UNet/18May_0245am_surrAnam/30_model.pth",
+    "mode"      : "AE",
+    "batch_size": "16",
+    "steps"     : "4",
+    "gpu"       : "1",    
+    "shuffle"   : "0"
+    
+}

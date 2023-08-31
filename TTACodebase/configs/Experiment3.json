@@ -1,0 +1,11 @@
+{
+
+    "expt" : "3",
+    "modelFile" : "/media/cds/storage/DATA-1/hari/Covid19SegmentationNaveen/AnamNet/COVID Segmentation Exp 2/savedModels/13Sep_0505pm_model/AttUNet_50_model.pth", 
+    "mode"      : "gceConst",
+    "batch_size": "8",
+    "steps"     : "1",
+    "gpu"       : "1",
+    "shuffle"   : "1"
+    
+}
