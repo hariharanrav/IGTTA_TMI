@@ -10,6 +10,8 @@ change the mode in Example.json to generate results for different methods
 1) Cross-instituional MRI tumor segmentation problm.
 
    a) Distribution of number of failures across sites
+
+<img src="https://github.com/hariharanrav/IGTTA_TMI/assets/75911061/03adf3d0-0401-4000-bbc3-2b717966b4c2" width=50% height=50%>
    
 ![SiteWiseFailures](https://github.com/hariharanrav/IGTTA_TMI/assets/75911061/03adf3d0-0401-4000-bbc3-2b717966b4c2 ) 
 
