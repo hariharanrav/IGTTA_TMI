@@ -11,6 +11,6 @@ change the mode in Example.json to generate results for different methods
 
    a) Distribution of number of failures across sites
    
-![SiteWiseFailures |1000x100 ](https://github.com/hariharanrav/IGTTA_TMI/assets/75911061/03adf3d0-0401-4000-bbc3-2b717966b4c2 )
+![SiteWiseFailures |100x100 ](https://github.com/hariharanrav/IGTTA_TMI/assets/75911061/03adf3d0-0401-4000-bbc3-2b717966b4c2 )
 
 ![OCT_outperformance](https://github.com/hariharanrav/IGTTA_TMI/assets/75911061/89cbb940-0411-447e-bd4b-b0c24ca7bb5f)
