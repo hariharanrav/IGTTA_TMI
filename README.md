@@ -10,8 +10,6 @@ change the mode in Example.json to generate results for different methods
 1) Cross-instituional MRI tumor segmentation problm.
 
    a) Distribution of number of failures across sites
-
-
  <img src="https://github.com/hariharanrav/IGTTA_TMI/assets/75911061/184977ad-cdee-44a8-87a7-223e83d1e574" width=50% height=50%>   
  
  b) Average Dice Percentage increase in Enhancing Tumor
