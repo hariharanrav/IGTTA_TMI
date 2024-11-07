@@ -13,7 +13,7 @@
     "surrModelFile3": "/media/cds-1/DATA1/DLServer/Covid19SegmentationNaveen/TTAcodebase/surrogates/AnamNet/18May_0946am_surrAnam/30_model.pth",
     "surrModelFile":  "/media/cds-1/DATA1/DLServer/Covid19SegmentationNaveen/TTAcodebase/surrogates/AnamNet/14Aug_1202pm_AE_Anam_Train/30_model.pth",
     "mode2"      : "tent",
-    "mode"      : "SM",
+    "mode"      : "tentDiv",
     "batch_size": 28,
     "steps"     : "40",
     "gpu"       : "1",
